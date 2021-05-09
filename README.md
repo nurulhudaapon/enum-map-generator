@@ -1,7 +1,7 @@
 # Enum Map Generator README
 Generator mapper from TS enum or JS enum like object.
 
-![explorer](assets/demo.gif)
+![demo](assets/demo.gif)
 
 
 `Keybinding: ALT+SHIFT+M`
