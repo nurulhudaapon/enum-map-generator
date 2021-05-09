@@ -6,8 +6,14 @@
   "engines": {
     "vscode": "^1.56.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurulhudaapon/enum-map-generator.git"
+},
   "categories": [
-    "Other"
+    "Programming Languages",
+    "Snippets",
+    "Formatters"
   ],
   "activationEvents": [
     "onCommand:enum-map-generator.paste_mapped_enum"
