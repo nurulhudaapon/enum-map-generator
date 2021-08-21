@@ -3,6 +3,12 @@
   "displayName": "Enum Map Generator",
   "description": "Generate mapper for enum in TS/CS",
   "version": "0.0.1",
+  "icon": "assets/icon.png",
+  "author": {
+    "email": "nurulhudaapon@gmail.com",
+    "name": "Nurul Huda"
+  },
+  "publisher": "nurulhudaapon",
   "engines": {
     "vscode": "^1.56.0"
   },
